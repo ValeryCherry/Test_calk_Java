@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Введите первое число");
+        System.out.println("Введите первое число:");
         System.out.println("Введите знак операции");
         System.out.println("Введите второе число и нажмите ENTER!");
         String input = scanner.nextLine();
